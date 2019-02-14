@@ -8,3 +8,9 @@ Machine Learning algorithms on forums dedicated to supporting suicidal and
 depressed people. By analyzing the data scraped from these algorithms, Levine
 was able to find common words that indicated a shift from depressed to suicidal
 tendencies. Some of these words included "hate", "cutting", and "pain".
+
+Edit by Alex  
+It is heartbreaking to see that a larger percentage of the population are more depressed than their younger 
+counterparts. Through machine learning and natural language processing, it is admirable to attempt to prevent
+those who will be more likely to commit suicide. Hopefully predictions used here can be helpful in supporting
+medical professionals when diagnosing their patients.
