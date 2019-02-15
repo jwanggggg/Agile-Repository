@@ -9,6 +9,7 @@ Machine Learning algorithms on forums dedicated to supporting suicidal and
 depressed people. By analyzing the data scraped from these algorithms, Levine
 was able to find common words that indicated a shift from depressed to suicidal
 tendencies. Some of these words included "hate", "cutting", and "pain".
+<<<<<<< HEAD
 =======
 (https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/)  
 This article concerns the debate regarding *tabs vs. spaces*.  
@@ -16,3 +17,11 @@ While I personally use ***tabs***, I was surprised to learn those who use **spac
 
 However, I will forever use *tabs*.
 >>>>>>> 5fb429a689300a63a2a11bcf34b31110950c7b19
+=======
+
+Edit by Alex  
+It is heartbreaking to see that a larger percentage of the population are more depressed than their younger 
+counterparts. Through machine learning and natural language processing, it is admirable to attempt to prevent
+those who will be more likely to commit suicide. Hopefully predictions used here can be helpful in supporting
+medical professionals when diagnosing their patients.
+>>>>>>> 528ee17312378cafa7c176b0ed1207208e249428
