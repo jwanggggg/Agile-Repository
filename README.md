@@ -14,3 +14,10 @@ It is heartbreaking to see that a larger percentage of the population are more d
 counterparts. Through machine learning and natural language processing, it is admirable to attempt to prevent
 those who will be more likely to commit suicide. Hopefully predictions used here can be helpful in supporting
 medical professionals when diagnosing their patients.
+
+# **EDIT by Abhi**
+
+This is a sad issue to think about, but the field of machine learning does have a use here. I'm interested to see
+the broader applications of ML within the field of medicine, and how false-positives will become a fundamental issue.
+
+
